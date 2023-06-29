@@ -7,6 +7,7 @@ if __name__ == '__main__':
              'Data_input/bier127.tsp.txt',
              'Data_input/eil76.tsp.txt',
              'Data_input/kroA100.tsp.txt',
+             'Data_input/kroE100.tsp.txt',
              'Data_input/pr76.tsp.txt',
              'Data_input/rat99.tsp.txt',
              'Data_input/st70.tsp.txt']

@@ -1,9 +1,9 @@
 # Implex Project
 
 ## Requisitos
-- Python 3.9
+- Python 
 - pip
-- numpy v1.21.0
+- numpy
 
 ## Execução
 Para executar o programa, siga as etapas abaixo:
